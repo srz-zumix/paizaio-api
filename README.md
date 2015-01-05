@@ -1,4 +1,4 @@
-Wandbox Python API
+paiza.IO Python API
 ===========
   
 [paiza.IO](http://melpon.org/wandbox/) is a social compilation service.  
