@@ -5,7 +5,7 @@ f = open(os.path.join(os.path.dirname(__file__), 'README.md'))
 readme = f.read()
 f.close()
 
-VERSION = "0.2.1"
+VERSION = "0.2.2"
 
 setup(
 	name = "paizaio-api"
